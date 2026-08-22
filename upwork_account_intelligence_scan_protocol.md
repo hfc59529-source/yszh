@@ -71,3 +71,15 @@ Look for evidence of a stable middle layer:
 - still research/intelligence, not sales execution
 - high AI leverage
 - human value remains in judgment, scoring, and recommended angle
+
+## Stop Condition
+
+If one full search pass returns fewer than 5 real job-detail records for standalone Account Intelligence, and most higher-value jobs bundle the capability inside GTM, ABM, RevOps, SDR execution, campaign operations, or automation, stop scanning and mark:
+
+WEAK STANDALONE MARKET — EMBEDDED CAPABILITY
+
+Interpretation:
+
+- Account Intelligence may be valuable.
+- But buyers may not purchase it as a standalone Upwork task.
+- It may function as a capability inside larger sales/GTM workflows rather than as the first independent SKU.
